@@ -1,1 +1,1 @@
-Project ececutable files
+Project executable files
